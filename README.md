@@ -1,5 +1,7 @@
 ### Welcome to a random assortment of mostly useless stuff.
 
+[Dev Blog](https://gregfrazier.github.io/)
+
 <!--
 **gregfrazier/gregfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
